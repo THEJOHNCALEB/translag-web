@@ -23,7 +23,9 @@ export const metadata: Metadata = {
     title: "Translag - Real-time Translation for Nigerian Languages",
     description:
       "Break language barriers with instant translation between English and Nigerian languages using Translag",
-    image: "https://translag.vercel.app/media/logo.png",
+    images: [{
+      url: "https://translag.vercel.app/media/logo.png"
+    }],
   },
 };
 
