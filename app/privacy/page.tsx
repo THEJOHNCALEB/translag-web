@@ -141,7 +141,7 @@ export default function PrivacyPage() {
             </li>
           </ul>
           <div className="mt-4 p-4 bg-blue-50 rounded-lg border border-blue-100">
-            <p className="text-sm">Our translation services are powered by Spitch's AI technology. For more information about how Spitch handles your data, please visit their <a href="http://spitch.app/privacy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">privacy policy</a>.</p>
+            <p className="text-sm">Our translation services are powered by Spitch&apos;s AI technology. For more information about how Spitch handles your data, please visit their <a href="http://spitch.app/privacy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">privacy policy</a>.</p>
           </div>
         </section>
 

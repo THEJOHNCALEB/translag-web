@@ -27,7 +27,7 @@ export default function TermsPage() {
             <Shield className="h-8 w-8 text-blue-600" />
             <h2 className="text-2xl font-semibold">1. Acceptance of Terms</h2>
           </div>
-          <p className="leading-relaxed">By accessing and using Translag, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any of these terms, you are prohibited from using or accessing this application.</p>
+          <p className="leading-relaxed">By accessing and using Translag, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you don&apos;t agree with any of these terms, you are prohibited from using or accessing this application.</p>
         </section>
 
         <section className="bg-white/50 p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
@@ -39,7 +39,7 @@ export default function TermsPage() {
           <ul className="list-disc ml-6 mt-2 space-y-2">
             <li className="flex items-center gap-2">
               <span className="h-1.5 w-1.5 bg-green-600 rounded-full"></span>
-              Text translation powered by Spitch's AI technology
+              Text translation powered by Spitch&apos;s AI technology
             </li>
             <li className="flex items-center gap-2">
               <span className="h-1.5 w-1.5 bg-green-600 rounded-full"></span>
@@ -47,7 +47,7 @@ export default function TermsPage() {
             </li>
             <li className="flex items-center gap-2">
               <span className="h-1.5 w-1.5 bg-green-600 rounded-full"></span>
-              Text-to-speech functionality using Spitch's voice synthesis
+              Text-to-speech functionality using Spitch&apos;s voice synthesis
             </li>
             <li className="flex items-center gap-2">
               <span className="h-1.5 w-1.5 bg-green-600 rounded-full"></span>
@@ -55,7 +55,7 @@ export default function TermsPage() {
             </li>
           </ul>
           <div className="mt-4 p-4 bg-blue-50 rounded-lg border border-blue-100">
-            <p className="text-sm">Our translation services are powered by Spitch's advanced AI technology, which enables natural-sounding translations and authentic African voice synthesis. For more information about Spitch's services, please visit <a href="http://spitch.app" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">spitch.app</a>.</p>
+            <p className="text-sm">Our translation services are powered by Spitch&apos;s advanced AI technology, which enables natural-sounding translations and authentic African voice synthesis. For more information about Spitch&apos;s services, please visit <a href="http://spitch.app" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">spitch.app</a>.</p>
           </div>
         </section>
 
@@ -90,7 +90,7 @@ export default function TermsPage() {
             <UserCheck className="h-8 w-8 text-indigo-600" />
             <h2 className="text-2xl font-semibold">4. User Accounts</h2>
           </div>
-          <p className="leading-relaxed mb-4">To use Translag's translation services, you must:</p>
+          <p className="leading-relaxed mb-4">To use Translag&apos;s translation services, you must:</p>
           <ul className="list-disc ml-6 mt-2 space-y-2">
             <li className="flex items-center gap-2">
               <span className="h-1.5 w-1.5 bg-indigo-600 rounded-full"></span>
@@ -150,7 +150,7 @@ export default function TermsPage() {
             <AlertCircle className="h-8 w-8 text-orange-600" />
             <h2 className="text-2xl font-semibold">7. Limitation of Liability</h2>
           </div>
-          <p className="leading-relaxed">Translag is provided "as is" without any warranties. We are not liable for any damages arising from the use or inability to use our service.</p>
+          <p className="leading-relaxed">Translag is provided &quot;as is&quot; without any warranties. We are not liable for any damages arising from the use or inability to use our service.</p>
         </section>
 
         <section className="bg-white/50 p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
