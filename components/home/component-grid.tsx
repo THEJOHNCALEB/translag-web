@@ -67,11 +67,12 @@ export default function ComponentGrid() {
       >
         <button
           onClick={() => setOpenPopover(!openPopover)}
-          className="group relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-black px-8 py-3 font-medium text-white transition-all hover:bg-black focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2"
+          disabled
+          className="group relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-gray-400 px-8 py-3 font-medium text-white transition-all cursor-not-allowed"
         >
           <span className="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform bg-white opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-40"></span>
           <div className="relative flex items-center space-x-2">
-            <span className="text-base font-semibold">Download App</span>
+            <span className="text-base font-semibold">Coming Soon</span>
             <DownloadIcon
               className={`h-5 w-5 transition-transform duration-200 ${openPopover ? "rotate-180" : ""}`}
             />
