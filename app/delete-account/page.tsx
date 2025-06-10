@@ -2,8 +2,8 @@ import Image from "next/image";
 
 export default function DeleteAccount() {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center bg-gray-50 px-4 py-12 sm:px-6 lg:px-8">
-      <div className="w-full max-w-2xl rounded-lg bg-white p-8 shadow-lg">
+    <div className="relative z-10 w-full max-w-4xl px-5 xl:px-0">
+      <div className="w-full rounded-lg bg-white p-8 shadow-lg">
         <div className="text-center">
           <Image
             src="/honelogo.png"
