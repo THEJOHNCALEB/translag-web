@@ -1,5 +1,5 @@
 import { VibrateIcon } from "lucide-react";
-import { BuyMeACoffee, X } from "../shared/icons";
+import { BuyMeACoffee, X, Mail } from "../shared/icons";
 import Link from "next/link";
 
 export default function Footer() {
@@ -8,11 +8,12 @@ export default function Footer() {
       <div className="flex justify-center space-x-4 mb-3">
         <a
           href="mailto:john@translag.live"
-          className="text-gray-500 hover:text-gray-700 transition-colors"
+          className="text-gray-500 hover:text-gray-700 transition-colors flex items-center space-x-1"
           target="_blank"
           rel="noopener noreferrer"
         >
-          john@translag.live
+          <Mail className="h-5 w-5" />
+          <span>john@translag.live</span>
         </a>
         <a
           href="https://x.com/usetranslag"

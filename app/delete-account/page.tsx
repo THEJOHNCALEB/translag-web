@@ -76,8 +76,8 @@ export default function DeleteAccount() {
           <div className="mt-8 text-center">
             <p className="text-sm text-gray-500">
               Need help? Contact our support team at{" "}
-              <a href="mailto:support@translag.com" className="font-medium text-blue-600 hover:text-blue-500">
-                support@translag.com
+              <a href="mailto:john@translag.live" className="font-medium text-blue-600 hover:text-blue-500">
+                john@translag.live
               </a>
             </p>
           </div>

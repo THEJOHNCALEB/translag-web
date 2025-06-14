@@ -202,7 +202,7 @@ export default function PrivacyPage() {
             <Mail className="h-8 w-8 text-pink-600" />
             <h2 className="text-2xl font-semibold">9. Contact Us</h2>
           </div>
-          <p className="leading-relaxed">If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@translag.com" className="text-blue-600 hover:underline">privacy@translag.com</a></p>
+          <p className="leading-relaxed">If you have any questions about this Privacy Policy, please contact us at <a href="mailto:john@translag.live" className="text-blue-600 hover:underline">john@translag.live</a></p>
         </section>
       </div>
     </div>
