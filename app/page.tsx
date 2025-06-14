@@ -32,16 +32,7 @@ export default async function Home() {
           className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
           style={{ animationDelay: "0.25s", animationFillMode: "forwards" }}
         >
-          Break language barriers with <strong>Translag</strong>, the ultimate app for translating between English and Nigerian languages. Powered by{" "}
-          <strong><a 
-            href="http://spitch.app" 
-            target="_blank" 
-            rel="noopener noreferrer" 
-            className="text-gray-500 underline font-semibold"
-          >
-            Spitch.
-          </a></strong>
-        </p>
+          Break language barriers with <strong>Translag</strong>, the ultimate app for translating between English and Nigerian languages.        </p>
         <div
           className="mx-auto mt-6 flex items-center justify-center space-x-5"
         >          

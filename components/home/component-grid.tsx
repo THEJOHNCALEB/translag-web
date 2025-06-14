@@ -33,7 +33,7 @@ export default function ComponentGrid() {
         content={
           <div className="w-full rounded-md bg-white p-2 sm:w-48 border border-gray-200 shadow-lg">
             <Link 
-              href="https://play.google.com/store/apps/details?id=com.translag.app" 
+              href="https://play.google.com/store/apps/details?id=com.thejohncaleb.translag" 
               target="_blank"
               rel="noopener noreferrer"
               className="flex w-full items-center justify-start space-x-2 rounded-md p-4 text-left text-sm transition-all duration-75 hover:bg-gray-50 active:bg-gray-100 border-b border-gray-100"
@@ -44,15 +44,12 @@ export default function ComponentGrid() {
 
               <span className="font-medium underline">Get on Google Play</span>
             </Link>
-            <Link 
-              href="https://apps.apple.com/app/translag" 
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex w-full items-center justify-start space-x-2 rounded-md p-4 text-left text-sm transition-all duration-75 hover:bg-gray-50 active:bg-gray-100 border-b border-gray-100"
+            <div 
+              className="flex w-full items-center justify-start space-x-2 rounded-md p-4 text-left text-sm transition-all duration-75 bg-gray-50 border-b border-gray-100 cursor-not-allowed"
             >
               <AppStoreIcon />
-              <span className="font-medium underline">Download on App Store</span>
-            </Link>
+              <span className="font-medium text-gray-500">App Store [Coming Soon]</span>
+            </div>
             <Link 
               href="/download/translag.apk" 
               className="flex w-full items-center justify-start space-x-2 rounded-md p-4 text-left text-sm transition-all duration-75 hover:bg-gray-50 active:bg-gray-100"
@@ -67,12 +64,11 @@ export default function ComponentGrid() {
       >
         <button
           onClick={() => setOpenPopover(!openPopover)}
-          disabled
-          className="group relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-gray-400 px-8 py-3 font-medium text-white transition-all cursor-not-allowed"
+          className="group relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-black px-8 py-3 font-medium text-white transition-all hover:bg-black focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2"
         >
           <span className="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform bg-white opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-40"></span>
           <div className="relative flex items-center space-x-2">
-            <span className="text-base font-semibold">Coming Soon</span>
+            <span className="text-base font-semibold">Download App</span>
             <DownloadIcon
               className={`h-5 w-5 transition-transform duration-200 ${openPopover ? "rotate-180" : ""}`}
             />
