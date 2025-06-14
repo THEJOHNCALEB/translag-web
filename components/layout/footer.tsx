@@ -1,11 +1,28 @@
 import { VibrateIcon } from "lucide-react";
-import { BuyMeACoffee } from "../shared/icons";
+import { BuyMeACoffee, X } from "../shared/icons";
 import Link from "next/link";
 
 export default function Footer() {
   return (
     <div className="absolute w-full py-5 mb-2 gap-5 text-center">
-      
+      <div className="flex justify-center space-x-4 mb-3">
+        <a
+          href="mailto:john@translag.live"
+          className="text-gray-500 hover:text-gray-700 transition-colors"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          john@translag.live
+        </a>
+        <a
+          href="https://x.com/usetranslag"
+          className="text-gray-500 hover:text-gray-700 transition-colors"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <X className="h-5 w-5 inline-block" />
+        </a>
+      </div>
       <a
         href="https://www.buymeacoffee.com/thejohncaleb"
         target="_blank"
@@ -24,7 +41,7 @@ export default function Footer() {
         </Link>
       </div>
       <p className="text-gray-500 mb-3">
-      Made with ❤ By {" "}
+        Made with ❤ By {" "}
         <a
           className="font-semibold text-gray-600 underline transition-colors hover:no-underline"
           href="https://thejohncaleb.vercel.app"

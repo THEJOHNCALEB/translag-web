@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     title: "Translag - Real-time Translation for Nigerian Languages",
     description:
       "Break language barriers with instant translation between English and Nigerian languages using Translag",
-    creator: "@thejohncaleb",
+    creator: "@usetranslag",
   },
   openGraph: {
     title: "Translag - Real-time Translation for Nigerian Languages",
