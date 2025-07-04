@@ -51,7 +51,7 @@ export default function ComponentGrid() {
               <span className="font-medium text-gray-500">App Store [Coming Soon]</span>
             </div>
             <Link 
-              href="/download/translag.apk" 
+              href="https://drive.google.com/uc?export=download&id=1WGDUk7HutiZDOOwmGD2zDf9qzQM8PvTx" 
               className="flex w-full items-center justify-start space-x-2 rounded-md p-4 text-left text-sm transition-all duration-75 hover:bg-gray-50 active:bg-gray-100"
             >
               <AndroidIcon />
