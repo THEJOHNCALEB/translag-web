@@ -32,7 +32,7 @@ export default function Faq() {
     {
       question: "What languages does Translag support?",
       answer:
-        "Translag currently supports translation between English and three major Nigerian languages: Yoruba, Igbo, and Hausa. Each language comes with its own native voice option for text-to-speech functionality.",
+        "Translag currently supports translation between English and three major African languages: Yoruba, Igbo, and Hausa. Each language comes with its own native voice option for text-to-speech functionality.",
       isOpen: false,
     },
     {

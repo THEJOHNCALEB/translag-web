@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Terms of Service - Translag",
-  description: "Terms of Service for Translag - Real-time translation between English and Nigerian languages",
+  description: "Terms of Service for Translag - Real-time translation between English and African languages",
 };
 
 export default function TermsPage() {
@@ -35,7 +35,7 @@ export default function TermsPage() {
             <FileText className="h-8 w-8 text-green-600" />
             <h2 className="text-2xl font-semibold">2. Description of Service</h2>
           </div>
-          <p className="leading-relaxed mb-4">Translag is a mobile application that provides real-time translation services between English and major Nigerian languages (Yoruba, Igbo, and Hausa). The service includes:</p>
+          <p className="leading-relaxed mb-4">Translag is a mobile application that provides real-time translation services between English and major African languages (Yoruba, Igbo, and Hausa). The service includes:</p>
           <ul className="list-disc ml-6 mt-2 space-y-2">
             <li className="flex items-center gap-2">
               <span className="h-1.5 w-1.5 bg-green-600 rounded-full"></span>

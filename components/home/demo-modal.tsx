@@ -22,7 +22,7 @@ const DemoModal = ({
           <Languages className="h-10 w-10 text-blue-600" />
           <h3 className="font-display text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Translag</h3>
           <p className="text-sm text-gray-500">
-            Join the waitlist to get early access to Translag - Your AI-powered Nigerian language translator.
+            Join the waitlist to get early access to Translag - Your AI-powered African language translator.
           </p>
           <form className="w-full max-w-sm">
             <div className="flex items-center border-b border-blue-500 py-2">

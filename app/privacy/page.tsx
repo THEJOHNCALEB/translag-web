@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Privacy Policy - Translag",
-  description: "Privacy Policy for Translag - Real-time translation between English and Nigerian languages",
+  description: "Privacy Policy for Translag - Real-time translation between English and African languages",
 };
 
 export default function PrivacyPage() {

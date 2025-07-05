@@ -26,13 +26,13 @@ export default async function Home() {
           className="animate-fade-up bg-gradient-to-br from-black to-stone-500 bg-clip-text text-center font-display text-4xl font-bold tracking-[-0.02em] text-transparent opacity-0 drop-shadow-sm [text-wrap:balance] md:text-7xl md:leading-[5rem]"
           style={{ animationDelay: "0.15s", animationFillMode: "forwards" }}
         >
-          Real-time Translation for Nigerian Languages
+          Real-time Translation for African Languages
         </h1>
         <p
           className="mt-6 animate-fade-up text-center text-gray-500 opacity-0 [text-wrap:balance] md:text-xl"
           style={{ animationDelay: "0.25s", animationFillMode: "forwards" }}
         >
-          Break language barriers with <strong>Translag</strong>, the ultimate app for translating between English and Nigerian languages.        </p>
+          Break language barriers with <strong>Translag</strong>, the ultimate app for translating between English and African languages.        </p>
         <div
           className="mx-auto mt-6 flex items-center justify-center space-x-5"
         >          
@@ -48,7 +48,7 @@ export default async function Home() {
                 <div className="sm:border-t-0 sm:mt-0 border-t-2 mt-8"></div>
                 <div className='sm:w-1/2 w-full sm:pt-0 pt-7'>
                   <h2 className='sm:text-6xl sm:text-left text-center text-3xl font-light text-stone-900'>
-                    Translate instantly between English and Nigerian languages with <strong className="font-bold">Translag.</strong>
+                    Translate instantly between English and African languages with <strong className="font-bold">Translag.</strong>
                   </h2>
                 </div>
               </div>
@@ -72,7 +72,7 @@ export default async function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold mb-2">Real-time Translation</h3>
-                    <p className="text-gray-600">Instant translation between English and Nigerian languages with high accuracy.</p>
+                    <p className="text-gray-600">Instant translation between English and African languages with high accuracy.</p>
                   </div>
                 </div>
                 <div className="flex items-start space-x-4">

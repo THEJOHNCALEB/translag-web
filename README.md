@@ -1,10 +1,10 @@
 <a href="https://translag.vercel.app/">
-  <img alt="Translag – Real-time Translation for Nigerian Languages" src="https://translag.vercel.app/opengraph-image.png" />
+  <img alt="Translag – Real-time Translation for African Languages" src="https://translag.vercel.app/opengraph-image.png" />
   <h1 align="center">Translag</h1>
 </a>
 
 <p align="center">
-  `Real-time Translation App for Nigerian Languages`
+  `Real-time Translation App for African Languages`
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Translag is a Real-time Translation App for Nigerian Languages
+Translag is a Real-time Translation App for African Languages
 
 ---
 
