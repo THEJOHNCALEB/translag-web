@@ -59,9 +59,9 @@ export default function ExtensionGrid() {
     >
       <button
         onClick={() => setOpenPopover(!openPopover)}
-        className="group relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-gradient-to-r from-blue-600 to-purple-600 px-8 py-3 font-medium text-white transition-all hover:from-blue-700 hover:to-purple-700 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:ring-offset-2"
+        className="group relative inline-flex items-center justify-center overflow-hidden rounded-lg bg-white border-2 border-black px-8 py-3 font-medium text-black transition-all hover:bg-black hover:text-white focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-offset-2"
       >
-        <span className="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform bg-white opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-40"></span>
+        <span className="absolute right-0 -mt-12 h-32 w-8 translate-x-12 rotate-12 transform bg-black opacity-10 transition-all duration-1000 ease-out group-hover:-translate-x-40"></span>
         <div className="relative flex items-center space-x-2">
           <span className="text-base font-semibold">Use in Web Extension</span>
           <ChevronDown
