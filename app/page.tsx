@@ -3,6 +3,7 @@ import { DEPLOY_URL } from "@/lib/constants";
 import { Github, Twitter } from "@/components/shared/icons";
 import WebVitals from "@/components/home/web-vitals";
 import ComponentGrid from "@/components/home/component-grid";
+import ExtensionGrid from "@/components/home/extension-grid";
 import Image from "next/image";
 import { AlignRight, ArrowRight, ArrowRightIcon, CarrotIcon, ChevronRight, MailOpen } from "lucide-react";
 import Faq from "@/components/home/faq";
@@ -34,9 +35,10 @@ export default async function Home() {
         >
           Break language barriers with <strong>Translag</strong>, the ultimate app for translating between English and African languages.        </p>
         <div
-          className="mx-auto mt-6 flex items-center justify-center space-x-5"
+          className="mx-auto mt-6 flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-5"
         >          
           <ComponentGrid />
+          <ExtensionGrid />
         </div>
       </div>
       <div className="container my-10 opacity-95 w-full max-w-screen-xl flex-1 justify-center gap-5 px-5 xl:px-0">
