@@ -7,16 +7,16 @@ export default function Footer() {
     <div className="absolute w-full py-5 mb-2 gap-5 text-center">
       <div className="flex justify-center space-x-4 mb-3">
         <a
-          href="mailto:john@translag.live"
+          href="mailto:hey@thejohncaleb.com"
           className="text-gray-500 hover:text-gray-700 transition-colors flex items-center space-x-1"
           target="_blank"
           rel="noopener noreferrer"
         >
           <Mail className="h-5 w-5" />
-          <span>john@translag.live</span>
+          <span>hey@thejohncaleb.com</span>
         </a>
         <a
-          href="https://x.com/usetranslag"
+          href="https://x.com/thejohncaleb"
           className="text-gray-500 hover:text-gray-700 transition-colors"
           target="_blank"
           rel="noopener noreferrer"
@@ -45,7 +45,7 @@ export default function Footer() {
         Made with ❤ By {" "}
         <a
           className="font-semibold text-gray-600 underline transition-colors hover:no-underline"
-          href="https://thejohncaleb.vercel.app"
+          href="https://translag.thejohncaleb.com"
           target="_blank"
           rel="noopener noreferrer"
         >

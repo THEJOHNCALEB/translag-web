@@ -23,8 +23,13 @@ const nextConfig = {
     return [
       {
         source: "/github",
-        destination: "https://github.com/thejohncaeb",
+        destination: "https://github.com/thejohncaleb",
         permanent: false,
+      },
+      {
+        source: "/deleteaccount",
+        destination: "/delete-account",
+        permanent: true,
       },
     ];
   },

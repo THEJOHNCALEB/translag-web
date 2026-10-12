@@ -194,7 +194,7 @@ export default function PrivacyPage() {
             <RefreshCw className="h-8 w-8 text-teal-600" />
             <h2 className="text-2xl font-semibold">8. Changes to Privacy Policy</h2>
           </div>
-          <p className="leading-relaxed">We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+          <p className="leading-relaxed">We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the &quot;Last updated&quot; date.</p>
         </section>
 
         <section className="bg-white/50 p-6 rounded-xl shadow-sm hover:shadow-md transition-shadow">
@@ -202,7 +202,7 @@ export default function PrivacyPage() {
             <Mail className="h-8 w-8 text-pink-600" />
             <h2 className="text-2xl font-semibold">9. Contact Us</h2>
           </div>
-          <p className="leading-relaxed">If you have any questions about this Privacy Policy, please contact us at <a href="mailto:john@translag.live" className="text-blue-600 hover:underline">john@translag.live</a></p>
+          <p className="leading-relaxed">If you have any questions about this Privacy Policy, please contact us at <a href="mailto:hey@thejohncaleb.com" className="text-blue-600 hover:underline">hey@thejohncaleb.com</a></p>
         </section>
       </div>
     </div>

@@ -1,5 +1,5 @@
-<a href="https://translag.vercel.app/">
-  <img alt="Translag – Real-time Translation for African Languages" src="https://translag.vercel.app/opengraph-image.png" />
+<a href="https://translag.thejohncaleb.com/">
+  <img alt="Translag – Real-time Translation for African Languages" src="https://translag.thejohncaleb.com/opengraph-image.png" />
   <h1 align="center">Translag</h1>
 </a>
 

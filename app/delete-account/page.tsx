@@ -38,7 +38,7 @@ export default function DeleteAccount() {
             <div>
               <h3 className="text-lg font-medium text-gray-900">Access Edit Profile</h3>
               <p className="mt-1 text-gray-600">
-                Click on the "Edit Profile" option in your profile menu
+                Click on the &quot;Edit Profile&quot; option in your profile menu
               </p>
             </div>
           </div>
@@ -50,7 +50,7 @@ export default function DeleteAccount() {
             <div>
               <h3 className="text-lg font-medium text-gray-900">Delete Account</h3>
               <p className="mt-1 text-gray-600">
-                Scroll to the bottom of the Edit Profile page and tap on "Delete Account"
+                Scroll to the bottom of the Edit Profile page and tap on &quot;Delete Account&quot;
               </p>
             </div>
           </div>
@@ -76,8 +76,8 @@ export default function DeleteAccount() {
           <div className="mt-8 text-center">
             <p className="text-sm text-gray-500">
               Need help? Contact our support team at{" "}
-              <a href="mailto:john@translag.live" className="font-medium text-blue-600 hover:text-blue-500">
-                john@translag.live
+              <a href="mailto:hey@thejohncaleb.com" className="font-medium text-blue-600 hover:text-blue-500">
+                hey@thejohncaleb.com
               </a>
             </p>
           </div>

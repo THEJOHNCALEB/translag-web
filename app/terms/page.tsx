@@ -166,7 +166,7 @@ export default function TermsPage() {
             <Mail className="h-8 w-8 text-pink-600" />
             <h2 className="text-2xl font-semibold">9. Contact Information</h2>
           </div>
-          <p className="leading-relaxed">If you have any questions about these Terms, please contact us at <a href="mailto:john@translag.live" className="text-blue-600 hover:underline">john@translag.live</a></p>
+          <p className="leading-relaxed">If you have any questions about these Terms, please contact us at <a href="mailto:hey@thejohncaleb.com" className="text-blue-600 hover:underline">hey@thejohncaleb.com</a></p>
         </section>
       </div>
     </div>

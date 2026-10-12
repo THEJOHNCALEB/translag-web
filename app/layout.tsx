@@ -11,20 +11,20 @@ export const metadata: Metadata = {
   title: "Translag - Real-time Translation for African Languages",
   description:
     "Translag - Real-time Translation App By John Caleb - Break language barriers with instant translation between English and African languages using Translag",
-  metadataBase: new URL("https://translag.vercel.app"),
+  metadataBase: new URL("https://translag.thejohncaleb.com"),
   twitter: {
     card: "summary_large_image",
     title: "Translag - Real-time Translation for African Languages",
     description:
       "Break language barriers with instant translation between English and African languages using Translag",
-    creator: "@usetranslag",
+    creator: "@thejohncaleb",
   },
   openGraph: {
     title: "Translag - Real-time Translation for African Languages",
     description:
       "Break language barriers with instant translation between English and African languages using Translag",
     images: [{
-      url: "https://translag.vercel.app/media/logo.png"
+      url: "https://translag.thejohncaleb.com/media/logo.png"
     }],
   },
 };
